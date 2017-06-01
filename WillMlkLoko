@@ -1,0 +1,9 @@
+
+public class HelloWill {
+
+    public static void main(String[] args) {
+        // Prints "Hello, Will" to the terminal window.
+        System.out.println("Hello, Will");
+    }
+
+}
